@@ -1,0 +1,5 @@
+Grupa 38
+1. STO st16, st8[RA]        - zapis sta³ej 16-bitowej do pamiêci
+2. ADD  REG, st8        - dodanie sta³ej 8-bitowej do rejestru
+3. BRZP REG, st8        - skok, gdy zawartoœæ rejestru wiêksza lub równa zero, adresowanie wzglêdne
+4. VAND  adr, n        - iloczyn logiczny 2 wektorów n liczb 8-bitowych w pamiêci (n<256), adres pierwszego wektora jest w rejestrze AD0, wynik umieszczany pod adr.
