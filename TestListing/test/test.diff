@@ -1,0 +1,6 @@
+service.AddTranslationsToWordServiceTest
+service.AddWordServiceTest
+service.DeleteWordServiceTest
+service.AbstractServiceTest
+service.FindWordServiceTest
+service.AddExamplesToWordServiceTest

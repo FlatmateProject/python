@@ -1,0 +1,8 @@
+model.EntityTest
+model.client.ClientEntityTest
+model.dictionary.WordEntityTest
+model.dictionary.ExampleEntityTest
+model.dictionary.TranslationEntityTest
+dao.ClientDaoTest
+dao.DictionaryDaoTest
+dao.AbstractDaoTest

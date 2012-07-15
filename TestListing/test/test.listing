@@ -1,0 +1,14 @@
+service.AddTranslationsToWordServiceTest
+service.AddWordServiceTest
+service.DeleteWordServiceTest
+service.AbstractServiceTest
+service.FindWordServiceTest
+service.AddExamplesToWordServiceTest
+model.EntityTest
+model.client.ClientEntityTest
+model.dictionary.WordEntityTest
+model.dictionary.ExampleEntityTest
+model.dictionary.TranslationEntityTest
+dao.ClientDaoTest
+dao.DictionaryDaoTest
+dao.AbstractDaoTest
